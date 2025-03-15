@@ -10,6 +10,9 @@ This project is a Monte Carlo Tree Search (MCTS) simulator with a graphical user
 - **Connect Four**: A 6x7 board game where players aim to connect four pieces.
 - **Tic-Tac-Toe**: A 3x3 board game where players aim to get three in a row.
 
+![Capture d'écran 2025-03-15 223139](https://github.com/user-attachments/assets/df56e4bb-4427-4a7a-b4a1-921134d75afc)
+
+
 ### MCTS Variants:
 - **Basic MCTS**: Standard Monte Carlo Tree Search.
 - **Nested MCTS**: Nested Monte Carlo Tree Search with configurable depth.
@@ -64,12 +67,19 @@ Click the ▶ Run button to start the simulation.
 
 ### 6. Adjust Visualization
 - Use the ➕ Zoom In and ➖ Zoom Out buttons to adjust the tree visualization.
+
+![Capture d'écran 2025-03-15 223220](https://github.com/user-attachments/assets/63c441e7-9dd1-49e8-be5a-032c66590250)
+
+  
 - Use the 🔄 Reset View button to reset the zoom level.
 
 ### 7. Review Simulation Output
 The Simulation Output section logs the following:
 - Selection, expansion, simulation, and backpropagation steps.
 - Final results of the simulation.
+
+  ![Capture d'écran 2025-03-15 223154](https://github.com/user-attachments/assets/e5cd4580-509b-4924-887d-5696ec0e730e)
+
 
 ## Understanding the Tree Visualization
 
@@ -79,6 +89,9 @@ The Simulation Output section logs the following:
 - **Blue**: Expanded nodes (nodes with children).
 - **Purple**: Leaf nodes (nodes without children).
 - **Grey**: Default nodes (other nodes in the tree).
+
+  ![Capture d'écran 2025-03-15 230233](https://github.com/user-attachments/assets/0ecd09f8-7bb4-48cd-b6b1-8b2d92a7c40b)
+
 
 ### Node Values:
 Each node displays two values:
@@ -103,8 +116,8 @@ Each node displays two values:
 - **Sim Depth**: 10
 
 ### Use Cases:
-- Enable **ML Policy Guidance**.
-- Enable **Tree Pruning**.
+
+![Capture d'écran 2025-03-15 223146](https://github.com/user-attachments/assets/49773fd4-f1e9-437e-be9d-d83fc838276f)
 
 ## Student:
 - Rodrigue Migniha
