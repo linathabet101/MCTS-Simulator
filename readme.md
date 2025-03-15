@@ -119,6 +119,6 @@ Each node displays two values:
 
 ![Capture d'écran 2025-03-15 223146](https://github.com/user-attachments/assets/49773fd4-f1e9-437e-be9d-d83fc838276f)
 
-## Student:
+## Students:
 - Rodrigue Migniha
 - Lina Thabet
